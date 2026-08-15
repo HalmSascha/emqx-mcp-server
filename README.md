@@ -1,4 +1,7 @@
 # EMQX MCP Server
+
+<p align="center"><img src="assets/icon.png" width="120" alt="EMQX MCP Server icon" /></p>
+
 [![smithery badge](https://smithery.ai/badge/@Benniu/emqx-mcp-server)](https://smithery.ai/server/@Benniu/emqx-mcp-server)
 
 <a href="https://glama.ai/mcp/servers/m7zgbcr053">
